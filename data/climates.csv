@@ -1,0 +1,27 @@
+Region,Latitude,Longitude,Altitude,Avg_Temp_C,Min_Temp_C,Max_Temp_C,Humidity_Percent,Wind_Speed_ms,Annual_Rainfall_mm,Climate_Zone
+Rajasthan,26.9124,75.7873,431,25.8,11.2,41.5,38,3.9,650,Hot-Arid
+Delhi,28.6139,77.2090,216,25.0,8.5,40.2,54,3.2,790,Composite
+Maharashtra,19.0760,72.8777,14,27.2,19.5,34.0,74,3.8,2200,Hot-Humid
+Karnataka,12.9716,77.5946,920,24.1,15.5,33.5,65,2.7,970,Temperate
+Tamil Nadu,13.0827,80.2707,7,28.6,21.0,37.5,72,3.9,1400,Hot-Humid
+Gujarat,23.0225,72.5714,53,27.0,13.0,42.0,48,3.6,800,Hot-Arid
+Kerala,8.5241,76.9366,10,27.5,22.0,33.0,80,3.1,3100,Warm-Humid
+West Bengal,22.5726,88.3639,9,26.8,14.0,36.5,75,3.3,1800,Hot-Humid
+Uttar Pradesh,26.8467,80.9462,123,25.5,9.0,41.0,58,2.9,990,Composite
+Punjab,31.6340,74.8723,234,24.2,6.5,40.5,56,3.4,700,Composite
+Telangana,17.3850,78.4867,542,26.5,14.5,39.0,55,3.0,890,Semi-Arid
+Madhya Pradesh,23.2599,77.4126,527,25.3,10.0,41.2,52,3.1,1100,Composite
+Himachal Pradesh,31.1048,77.1734,2276,14.5,1.0,26.0,62,2.8,1500,Cold-Mountain
+Jammu & Kashmir,34.0837,74.7973,1585,13.8,-2.0,31.0,64,2.5,720,Cold-Temperate
+Ladakh,34.1526,77.5770,3524,5.2,-12.0,22.0,30,4.0,105,Cold-Arid
+Assam,26.1445,91.7362,55,24.5,11.0,33.5,82,2.2,2800,Warm-Humid
+Odisha,20.2961,85.8245,45,27.4,15.5,38.0,73,3.5,1500,Hot-Humid
+Bihar,25.5941,85.1376,53,25.8,9.5,40.0,63,2.8,1200,Composite
+Uttarakhand,30.3165,78.0322,640,21.5,5.0,36.0,65,2.6,2100,Sub-Tropical
+Goa,15.2993,74.1240,31,27.8,20.5,33.5,78,3.7,3000,Hot-Humid
+Andhra Pradesh,17.6868,83.2185,15,28.2,19.0,37.0,70,3.8,1100,Hot-Humid
+Jharkhand,23.3441,85.3096,651,24.0,10.0,38.0,60,2.9,1400,Composite
+Chhattisgarh,21.2514,81.6296,298,26.5,13.0,42.0,55,2.9,1300,Composite
+Meghalaya,25.5788,91.8933,1525,17.2,4.0,25.5,85,2.4,3200,Temperate-Rainy
+Sikkim,27.3389,88.6065,1650,15.5,3.0,24.0,84,2.3,3500,Cold-Mountain
+Haryana,29.0588,76.0856,220,24.8,7.0,41.0,52,3.3,600,Semi-Arid

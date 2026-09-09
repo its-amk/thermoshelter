@@ -1,0 +1,38 @@
+Material,Thermal_Conductivity_W_mK,Density_kg_m3,Specific_Heat_J_kg_K,Absorptivity,Emissivity,Cost_INR_m3,Category,Availability
+Brick,0.80,1600,840,0.85,0.90,7500,Wall,Common
+AAC Block,0.24,600,880,0.75,0.90,6500,Wall,Common
+Concrete,1.40,2400,880,0.70,0.88,8000,Wall,Common
+Mud/Adobe,0.30,1400,850,0.80,0.90,2500,Wall,Common
+Compressed Earth Block,0.50,1800,900,0.75,0.90,4200,Wall,Common
+Stone,2.00,2400,800,0.65,0.90,9000,Wall,Local
+Fly Ash Brick,0.60,1700,840,0.75,0.90,6000,Wall,Common
+Hollow Concrete Block,0.55,1200,900,0.70,0.88,5600,Wall,Common
+Laterite Block,0.45,1500,900,0.75,0.90,4500,Wall,Local
+Rammed Earth,0.45,1900,900,0.80,0.90,3500,Wall,Local
+RCC,1.70,2400,880,0.70,0.88,9500,Roof,Common
+Clay Tile,1.00,1600,840,0.85,0.90,7000,Roof,Common
+Mud/Adobe Roof,0.30,1400,850,0.80,0.90,2800,Roof,Local
+Metal Sheet,50.00,7800,500,0.65,0.85,12000,Roof,Common
+Insulated Metal Sheet,0.04,50,1200,0.65,0.85,18000,Roof,Specialized
+Aluminium Sheet,205.00,2700,900,0.60,0.85,22000,Roof,Common
+GI Sheet,50.00,7850,500,0.65,0.85,11000,Roof,Common
+Terracotta Tile,0.90,1700,840,0.82,0.90,7500,Roof,Common
+Fiber Cement Sheet,0.35,1400,900,0.65,0.90,8500,Roof,Common
+Thatched Roof,0.09,300,1500,0.80,0.90,3000,Roof,Local
+Bamboo/Composite Roof,0.18,700,1400,0.75,0.90,9000,Roof,Local
+EPS,0.038,25,1450,0.70,0.90,9000,Insulation,Specialized
+XPS,0.030,35,1450,0.65,0.90,14000,Insulation,Specialized
+Rock Wool,0.045,150,840,0.75,0.85,12000,Insulation,Specialized
+Glass Wool,0.040,80,840,0.75,0.90,10000,Insulation,Specialized
+Expanded Perlite,0.050,120,900,0.70,0.90,8500,Insulation,Common
+Vermiculite,0.060,100,1000,0.70,0.90,8000,Insulation,Common
+Coir/Coconut Fiber,0.045,120,1500,0.80,0.90,6500,Insulation,Local
+Cellulose,0.040,60,1500,0.70,0.90,7000,Insulation,Common
+Polyurethane/PIR,0.025,40,1400,0.65,0.90,22000,Insulation,Specialized
+Natural Fiber Insulation,0.045,100,1500,0.75,0.90,7500,Insulation,Local
+Porotherm Block,0.27,750,880,0.75,0.90,6800,Wall,Common
+Timber Wood,0.13,600,1600,0.60,0.90,18000,Wall,Common
+PUF Sandwich Panel,0.023,45,1400,0.45,0.88,19500,Roof,Specialized
+Cool Roof Coating,0.40,1200,1000,0.20,0.92,14000,Roof,Common
+Wood Fiber Board,0.038,160,2100,0.70,0.90,9500,Insulation,Common
+Rice Husk Board,0.050,200,1300,0.75,0.90,5000,Insulation,Local
